@@ -6,7 +6,7 @@ fawning : trying to win favour/chaploosi/flattery(she was always fawning "ON" bo
 hyperbole : part of speech that needs to be exaggerated/emphasized(special fact)
 bumble : act/talk clumsy/awkwardly
 1 blonde,2 brunette : 1 white/golden/grey hair women, 2 brown hair women(light brown/dark brown)
-interpose : insert/intervene/interruption(The teacher interposed herself between the two fighting students to stop them)(He paused and interposed a question, "May I help you?". )
+interpose      :insert/intervene/interruption(The teacher interposed herself between the two fighting students to stop them)(He paused and interposed a question, "May I help you?". )
 stout : corpulent/fat
 aberrant : deviated from moral path(spherical aberration/focus se bhatakna)
 flunk : fail to meet required standard(i flunked biology in 10th class)
@@ -63,3 +63,8 @@ sub-orn: the lawyer was accused of attempting to suborn a witness to give a fals
 amicable : their divorce was surprisingly amicable & they remained friends afterwards(ami-(tumi) cable se connected=absence of discord=man mutav)
 amba-gi-ous vs ambi-gu-ous : the politician gave an ambagious answer(ghuma fira ke using words unnecessarily) | insructions were unclear ambiguous(unclear/multiple interpretations)
 renounce : she decided to renounce her royal title to live a quit life(to formally & publically give up or reject a claim, belief, right, or habit)
+ephemeral : social media popularity is inherently ephemeral, often vanishing as quickly as it arrives(transitory, e-exit+ph-tak se)
+a red letter day : winning the inter-college debate competition made yesterday a red-letter day for me(red mark to calendars in old times for important festivals=joy)(happy memorable day)
+omnipotent : no government leader should assume they are omnipotent and above the law(OMNI-verse=universe of ALL, potent=power)(having all powers=almighty)
+mi-ll-e-nn-ium : humanity made extraordinary technological progress over the past millennium(milli=1k like millimeter=1 part of 1kth part of meter, annus=year)(a thousand years)
+li-ai-son(not sion) : she acts as a liaison btw the engineering team & executive leadership(li=link, son=person)(a person or some system which work as intermediary, mediator, connection, channel)
